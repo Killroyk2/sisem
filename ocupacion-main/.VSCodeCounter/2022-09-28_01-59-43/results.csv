@@ -1,0 +1,23 @@
+"filename", "language", "Docker", "YAML", "JavaScript", "JSON with Comments", "Properties", "Markdown", "JSON", "comment", "blank", "total"
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\.eslintrc.json", "JSON with Comments", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\Dockerfile", "Docker", 10, 0, 0, 0, 0, 0, 0, 6, 7, 23
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\README.md", "Markdown", 0, 0, 0, 0, 0, 4, 0, 0, 2, 6
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\docker-compose.yml", "YAML", 0, 18, 0, 0, 0, 0, 0, 0, 0, 18
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\package-lock.json", "JSON", 0, 0, 0, 0, 0, 0, 1762, 0, 1, 1763
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\package.json", "JSON", 0, 0, 0, 0, 0, 0, 19, 0, 1, 20
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\process.yml", "YAML", 0, 6, 0, 0, 0, 0, 0, 0, 0, 6
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\.env", "Properties", 0, 0, 0, 0, 5, 0, 0, 0, 1, 6
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\app.js", "JavaScript", 0, 0, 7, 0, 0, 0, 0, 1, 4, 12
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\controller\UserController.js", "JavaScript", 0, 0, 18, 0, 0, 0, 0, 1, 9, 28
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\db\DBConnection.js", "JavaScript", 0, 0, 19, 0, 0, 0, 0, 0, 4, 23
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\models\User.js", "JavaScript", 0, 0, 70, 0, 0, 0, 0, 5, 6, 81
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\routes\UserRoutes.js", "JavaScript", 0, 0, 7, 0, 0, 0, 0, 0, 3, 10
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\server.js", "JavaScript", 0, 0, 7, 0, 0, 0, 0, 0, 3, 10
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\services\UserService.js", "JavaScript", 0, 0, 74, 0, 0, 0, 0, 1, 25, 100
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\soapMiddle\decrypt.js", "JavaScript", 0, 0, 31, 0, 0, 0, 0, 3, 12, 46
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\soapMiddle\poblacionEspecial.js", "JavaScript", 0, 0, 45, 0, 0, 0, 0, 4, 1, 50
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\soapMiddle\regimenContributivo.js", "JavaScript", 0, 0, 28, 0, 0, 0, 0, 5, 5, 38
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\soapMiddle\regimenSubsidiado.js", "JavaScript", 0, 0, 47, 0, 0, 0, 0, 3, 3, 53
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\soapMiddle\sisben.js", "JavaScript", 0, 0, 47, 0, 0, 0, 0, 4, 7, 58
+"c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\tests\sampleTest.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"Total", "-", 10, 24, 400, 0, 5, 4, 1781, 33, 96, 2353

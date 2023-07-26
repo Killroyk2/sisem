@@ -1,0 +1,59 @@
+Date : 2022-09-28 01:59:43
+Directory : c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master
+Total : 21 files,  2224 codes, 33 comments, 96 blanks, all 2353 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          2 |      1,781 |          0 |          2 |      1,783 |
+| JavaScript         |         13 |        400 |         27 |         83 |        510 |
+| YAML               |          2 |         24 |          0 |          0 |         24 |
+| Docker             |          1 |         10 |          6 |          7 |         23 |
+| Properties         |          1 |          5 |          0 |          1 |          6 |
+| Markdown           |          1 |          4 |          0 |          2 |          6 |
+| JSON with Comments |          1 |          0 |          0 |          1 |          1 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                                        | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                                           |         21 |      2,224 |         33 |         96 |      2,353 |
+| src                                                                                                                                                         |         13 |        405 |         27 |         83 |        515 |
+| src\controller                                                                                                                                              |          1 |         18 |          1 |          9 |         28 |
+| src\db                                                                                                                                                      |          1 |         19 |          0 |          4 |         23 |
+| src\models                                                                                                                                                  |          1 |         70 |          5 |          6 |         81 |
+| src\routes                                                                                                                                                  |          1 |          7 |          0 |          3 |         10 |
+| src\services                                                                                                                                                |          1 |         74 |          1 |         25 |        100 |
+| src\soapMiddle                                                                                                                                              |          5 |        198 |         19 |         28 |        245 |
+| tests                                                                                                                                                       |          1 |          0 |          0 |          1 |          1 |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                                                                                    | language           | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\.eslintrc.json                        | JSON with Comments |          0 |          0 |          1 |          1 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\Dockerfile                            | Docker             |         10 |          6 |          7 |         23 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\README.md                             | Markdown           |          4 |          0 |          2 |          6 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\docker-compose.yml                    | YAML               |         18 |          0 |          0 |         18 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\package-lock.json                     | JSON               |      1,762 |          0 |          1 |      1,763 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\package.json                          | JSON               |         19 |          0 |          1 |         20 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\process.yml                           | YAML               |          6 |          0 |          0 |          6 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\.env                              | Properties         |          5 |          0 |          1 |          6 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\app.js                            | JavaScript         |          7 |          1 |          4 |         12 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\controller\UserController.js      | JavaScript         |         18 |          1 |          9 |         28 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\db\DBConnection.js                | JavaScript         |         19 |          0 |          4 |         23 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\models\User.js                    | JavaScript         |         70 |          5 |          6 |         81 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\routes\UserRoutes.js              | JavaScript         |          7 |          0 |          3 |         10 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\server.js                         | JavaScript         |          7 |          0 |          3 |         10 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\services\UserService.js           | JavaScript         |         74 |          1 |         25 |        100 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\soapMiddle\decrypt.js             | JavaScript         |         31 |          3 |         12 |         46 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\soapMiddle\poblacionEspecial.js   | JavaScript         |         45 |          4 |          1 |         50 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\soapMiddle\regimenContributivo.js | JavaScript         |         28 |          5 |          5 |         38 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\soapMiddle\regimenSubsidiado.js   | JavaScript         |         47 |          3 |          3 |         53 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\src\soapMiddle\sisben.js              | JavaScript         |         47 |          4 |          7 |         58 |
+| c:\Users\Cris\Downloads\NodeJS-Microservice-Project-Structure-master (1)\NodeJS-Microservice-Project-Structure-master\tests\sampleTest.js                   | JavaScript         |          0 |          0 |          1 |          1 |
+| Total                                                                                                                                                       |                    |      2,224 |         33 |         96 |      2,353 |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
